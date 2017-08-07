@@ -1,0 +1,30 @@
+{
+  "name": "tezos.js",
+  "version": "0.0.1",
+  "description": "Tezos JavaScript API",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "tezos",
+    "json",
+    "rpc",
+    "api",
+    "wrapper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glambeth/tezos.js/issues"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glambeth/tezos.js/issues"
+  },
+  "homepage": "https://github.com/glambeth/tezos.js#README",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+
+  }
+}
